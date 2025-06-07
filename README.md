@@ -1,10 +1,8 @@
 # Screenshots
 
- 1. ER Diagram
-    ![Image](https://github.com/user-attachments/assets/e9a698d1-858f-43c9-ab06-07ca9c2b6b24)
+ 1. ER Diagram ![Image](https://github.com/user-attachments/assets/e9a698d1-858f-43c9-ab06-07ca9c2b6b24)
 
- 2. Login Page
-    ![Image](https://github.com/user-attachments/assets/43cf1004-58c9-49cd-b780-2b8c8d07d032)
+ 2. Login Page ![Image](https://github.com/user-attachments/assets/43cf1004-58c9-49cd-b780-2b8c8d07d032)
 
     ![Image](https://github.com/user-attachments/assets/8af14c97-957f-4598-b037-27819667b873)
     
